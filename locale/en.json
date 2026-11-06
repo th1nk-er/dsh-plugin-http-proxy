@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "HTTP proxy",
+    "description": "Routes outbound network requests through an HTTP proxy, with automatic system proxy detection."
+  }
+}

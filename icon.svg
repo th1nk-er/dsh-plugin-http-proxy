@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0E7090"/>
+  <!-- Server / Proxy node -->
+  <rect x="14" y="16" width="36" height="12" rx="3" fill="#E0F2FE"/>
+  <circle cx="21" cy="22" r="2" fill="#0284C7"/>
+  <circle cx="27" cy="22" r="2" fill="#0284C7"/>
+  <line x1="35" y1="22" x2="44" y2="22" stroke="#0284C7" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="14" y="36" width="36" height="12" rx="3" fill="#E0F2FE"/>
+  <circle cx="21" cy="42" r="2" fill="#10B981"/>
+  <circle cx="27" cy="42" r="2" fill="#0284C7"/>
+  <line x1="35" y1="42" x2="44" y2="42" stroke="#0284C7" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Connecting Arrows / Proxy Route -->
+  <path d="M32 28V36" stroke="#BAE6FD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M29 33L32 36L35 33" stroke="#BAE6FD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,6 @@
+- insert:
+    - id: http-proxy
+      name: '@local/http-proxy'
+      config:
+        useSystemProxy: true
+        syncEnv: true
